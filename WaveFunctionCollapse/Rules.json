@@ -1,0 +1,212 @@
+{
+  "Image_1": {
+    "top": [
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_1"
+      }
+    ],
+    "left": [
+      {
+        "image": "Image_5"
+      },
+      {
+        "image": "Image_1"
+      }
+    ],
+    "right": [
+      {
+        "image": "Image_1"
+      },
+      {
+        "image": "Image_2"
+      }
+    ],
+    "bottom": [
+      {
+        "image": "Image_1"
+      },
+      {
+        "image": "Image_4"
+      }
+    ]
+  },
+
+  "Image_2": {
+    "top": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_4"
+      },
+      {
+        "image": "Image_5"
+      }
+    ],
+    "left": [ 
+      {
+        "image": "Image_5"
+      },
+      {
+        "image": "Image_1"
+      }
+    ],
+    "right": [
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_4"
+      },
+      {
+        "image": "Image_5"
+      }
+    ],
+    "bottom": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_5"
+      }
+    ]
+  },
+
+  "Image_3": {
+    "top": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_4"
+      },
+      {
+        "image": "Image_5"
+      }
+    ],
+    "left": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_4"
+      }
+    ],
+    "right": [
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_4"
+      },
+      {
+        "image": "Image_5"
+      }
+    ],
+    "bottom": [
+      {
+        "image": "Image_1"
+      },
+      {
+        "image": "Image_4"
+      }
+    ]
+  },
+
+  "Image_4": {
+    "top": [
+      {
+        "image": "Image_1"
+      },
+      {
+        "image": "Image_3"
+      }
+    ],
+    "left": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_4"
+      }
+    ],
+    "right": [
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_4"
+      },
+      {
+        "image": "Image_5"
+      }
+    ],
+    "bottom": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_5"
+      }
+    ]
+  },
+
+  "Image_5": {
+    "top": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_4"
+      },
+      {
+        "image": "Image_5"
+      }
+    ],
+    "left": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_4"
+      }
+    ],
+    "right": [
+      {
+        "image": "Image_1"
+      },
+      {
+        "image": "Image_2"
+      }
+    ],
+    "bottom": [
+      {
+        "image": "Image_2"
+      },
+      {
+        "image": "Image_3"
+      },
+      {
+        "image": "Image_5"
+      }
+    ]
+  }
+}
